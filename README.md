@@ -2,7 +2,7 @@
 
 Se listan fuentes de datos para investigación social de Argentina. Este listado tiene el propósito de ayudar a quienes precisen usar esta información.
 
-# CENSOS. Bases de datos e información censal
+### CENSOS. Bases de datos e información censal
 
 - **[Argentina Censo Nacional 1980. Ampliado (SPSS)](https://archive.org/details/argentina-censo-nacional-1980.-ampliado-spss)**: Microdatos anonimizados del censo nacional de Argentina de 1980 en formato SPSS.
    
@@ -19,10 +19,10 @@ Se listan fuentes de datos para investigación social de Argentina. Este listado
 - **[Listado de viviendas de la República Argentina (2022)](https://archive.org/details/listado-de-viviendas-de-la-republica-argentina-2022)**: Es la lista de domicilio (calle, número, timbre) utilizado para identificar las viviendas del censo 2022.  
   - 📂 [Alternativo](https://zenodo.org/records/14969980) ([DOI](https://doi.org/10.5281/zenodo.14969980))
      
-# EDUCACIÓN. Bases de datos e información educativa
+### EDUCACIÓN. Bases de datos e información educativa
 
-- **[Padrón Consolidado 2011-2024 de Relación (NO OFICIAL) CUEANEXO-Identificador Ficticio de Establecimientos Educativos de Argentina](https://archive.org/details/padron-consolidado-2011-2024-cueanexo-identificador-ficticio)**: Contiene una relación no oficial entre códigos de establecimientos educativos en Argentina.  
-  - 📂 [Alternativo](https://zenodo.org/records/14977344) ([DOI](https://doi.org/10.5281/zenodo.14977344))  
+- **[Pruebas Aprender de Argentina (2016-2023)](https://archive.org/details/pruebas-aprender-2016-2023)**: Datos de las evaluaciones Aprender en Argentina entre 2016 y 2023.  
+  - 📂 [Alternativo](https://zenodo.org/records/14969900) ([DOI](https://doi.org/10.5281/zenodo.14969900))  
 
 - **[Relevamiento Anual de Establecimientos Educativos (2011-2023)](https://archive.org/details/bases-de-datos-2011-2023)**: Bases de datos anuales con información sobre establecimientos educativos en Argentina.  
   - 📂 [Alternativo](https://zenodo.org/records/14969907) ([DOI](https://doi.org/10.5281/zenodo.14969907))  
@@ -33,6 +33,5 @@ Se listan fuentes de datos para investigación social de Argentina. Este listado
 - **[Censo Nacional del Personal de los Establecimientos Educativos de Argentina (1994)](https://archive.org/details/censo-nacional-del-personal-de-los-establecimientos-educativos-1994)**: Datos del censo realizado en 1994 sobre el personal educativo en Argentina.  
   - 📂 [Alternativo](https://zenodo.org/records/14977561) ([DOI](https://doi.org/10.5281/zenodo.14977561))  
 
-- **[Pruebas Aprender de Argentina (2016-2023)](https://archive.org/details/pruebas-aprender-2016-2023)**: Datos de las evaluaciones Aprender en Argentina entre 2016 y 2023.  
-  - 📂 [Alternativo](https://zenodo.org/records/14969900) ([DOI](https://doi.org/10.5281/zenodo.14969900))  
-
+- **[Padrón Consolidado 2011-2024 de Relación (NO OFICIAL) CUEANEXO-Identificador Ficticio de Establecimientos Educativos de Argentina](https://archive.org/details/padron-consolidado-2011-2024-cueanexo-identificador-ficticio)**: Contiene una relación no oficial entre códigos de establecimientos educativos en Argentina.  
+  - 📂 [Alternativo](https://zenodo.org/records/14977344) ([DOI](https://doi.org/10.5281/zenodo.14977344))  
