@@ -43,7 +43,7 @@ Se listan fuentes de datos para investigación social de Argentina. Este listado
 
 ### SOFTWARE. Herramientas para tratar los datos
 
-- **[R)](https://www.r-project.org/)**: Paquete para análisis de datos.
-- **[PSPP)](https://www.gnu.org/software/pspp/)**: Versión de código abierto de SPSS.
-- **[QGIS)](https://qgis.org/)**: Software para trabajar con datos espaciales.
-- **[Conversor REDATAM)](https://aacademica.org/conversor.redatam)**: Permite convertir bases REDATAM a microdatos en archivos CSV.
+- **[R](https://www.r-project.org/)**: Paquete para análisis de datos.
+- **[PSPP](https://www.gnu.org/software/pspp/)**: Versión de código abierto de SPSS.
+- **[QGIS](https://qgis.org/)**: Software para trabajar con datos espaciales.
+- **[Conversor REDATAM](https://aacademica.org/conversor.redatam)**: Permite convertir bases REDATAM a microdatos en archivos CSV.
