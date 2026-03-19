@@ -1,6 +1,6 @@
 ## BASES DE DATOS PÚBLICAS DE ARGENTINA (LINKS)
 
-Se listan fuentes de datos para investigación social de Argentina. Este listado tiene el propósito de ayudar a quienes precisen usar información. Verificar en cada caso la fuente y ver si es de utilidad.
+Se listan fuentes de datos para investigación social de Argentina compartidas por diferentes personas en diferentes sitios. Este listado tiene el propósito de ayudar a quienes precisen usar información. Verificar en cada caso la fuente y ver si es de utilidad.
 
 
 ### CENSOS. Bases de datos e información censal
@@ -16,6 +16,9 @@ Se listan fuentes de datos para investigación social de Argentina. Este listado
     
 - **[Argentina Censo Nacional 2010 - Básico V2 (REDATAM)](https://archive.org/details/argentina-censo-2010.-basico-v2-redatam)**: Conjunto de datos del censo nacional de Argentina de 2010 en formato REDATAM.  
   - 📂 [Alternativo](http://datar.info/dataset/censo-nacional-de-poblacion-hogares-y-viviendas-2010-cd-redatam)
+
+- **[Argentina Censo Nacional 2022 - V2 (REDATAM7)](https://archive.org/details/argentina-censo-2022-v2-redatam7)**: Conjunto de datos del censo nacional de Argentina de 2022 en formato REDATAM7.  
+  - 📂 [Alternativo](https://zenodo.org/records/18737531) ([DOI](https://doi.org/10.5281/zenodo.18737531))
 
 - **[Cartografía censal (1991-2022)](https://ri.conicet.gov.ar/handle/11336/149711)**: Capas de polígonos de radios, departamentos y provincias con sus códigos censales, reproyectadas y corregidas por Gonzalo Rodriguez.  
 
